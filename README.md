@@ -87,8 +87,9 @@ Todo o material do curso está disponível em:
 
 ## Extras
 - Build Front-End, Otimização de Aplicações e Gulpjs;
-- Ember ?
+- Ember
 - React + Redux
+- Svelte
 - <del>Angular</del> (Pra que mexer com coisa ruim?)
 
 ### Referencia bibliográfica/video-aula:

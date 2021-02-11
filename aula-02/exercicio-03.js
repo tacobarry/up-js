@@ -1,0 +1,1 @@
+// Crie uma função que adicione propriedades dinamicamente em um objeto.
