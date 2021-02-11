@@ -46,47 +46,50 @@ Todo o material do curso está disponível em:
 - [] [Aula 4 - Callback, IIFE, Estruturas de Controle e Operadores](./aula-04/README.md);
 - [] [Aula 5 - Prototype e Shadowing e Namespaces](./aula-05/README.md);
 - [] [Aula 6 - ES6 para humanos](./aula-06/README.md);
-  <summary>Tópicos</summary>
+    <details>
+      <summary>Tópicos</summary>
 
-  * [`let`, `const` e block scoping](https://github.com/alexmoreno/ES6-para-humanos#1-let-const-e-escopo-de-bloco)
-  * [Arrow Functions](https://github.com/alexmoreno/ES6-para-humanos#2-arrow-functions)
-  * [Parâmetros Default de Funções](https://github.com/alexmoreno/ES6-para-humanos#3-parâmetros-default-de-funções)
-  * [Operador Spread/Rest ](https://github.com/alexmoreno/ES6-para-humanos#4-operador-spread--rest)
-  * [Extensões de Objetos Literais](https://github.com/alexmoreno/ES6-para-humanos#5-extensões-de-objetos-literais)
-  * [Literais Octais e Binários](https://github.com/alexmoreno/ES6-para-humanos#6-literais-octais-e-binários)
-  * [Desestruturamento de arrays e objetos](https://github.com/alexmoreno/ES6-para-humanos#7-desestruturamento-de-arrays-e-objetos)
-  * [super em Objetos](https://github.com/alexmoreno/ES6-para-humanos#8-super-em-objetos)
-  * [Templates Literais e Delimitadores](https://github.com/alexmoreno/ES6-para-humanos#9-templates-literais-e-delimitadores)
-  * [for...of vs for...in](https://github.com/alexmoreno/ES6-para-humanos#10-forof-vs-forin)
-  * [Map e WeakMap](https://github.com/alexmoreno/ES6-para-humanos#11-map-e-weakmap)
-  * [Set e WeakSet](https://github.com/alexmoreno/ES6-para-humanos#12-set-e-weakset)
-  * [Classes e, ES6](https://github.com/alexmoreno/ES6-para-humanos#13-classes-em-es6)
-  * [Símbolo (Symbol)](https://github.com/alexmoreno/ES6-para-humanos#14-símbolo-symbol)
-  * [Iteradores (Iterators)](https://github.com/alexmoreno/ES6-para-humanos#15-iteradores-iterators)
-  * [Geradores (Generators)](https://github.com/alexmoreno/ES6-para-humanos#16-geradores-generators)
-  * [Promises](https://github.com/alexmoreno/ES6-para-humanos#17-promises)
-
+     * [`let`, `const` e block scoping](https://github.com/alexmoreno/ES6-para-humanos#1-let-const-e-escopo-de-bloco)
+     * [Arrow Functions](https://github.com/alexmoreno/ES6-para-humanos#2-arrow-functions)
+     * [Parâmetros Default de Funções](https://github.com/alexmoreno/ES6-para-humanos#3-parâmetros-default-de-funções)
+     * [Operador Spread/Rest ](https://github.com/alexmoreno/ES6-para-humanos#4-operador-spread--rest)
+     * [Extensões de Objetos Literais](https://github.com/alexmoreno/ES6-para-humanos#5-extensões-de-objetos-literais)
+     * [Literais Octais e Binários](https://github.com/alexmoreno/ES6-para-humanos#6-literais-octais-e-binários)
+     * [Desestruturamento de arrays e objetos](https://github.com/alexmoreno/ES6-para-humanos#7-desestruturamento-de-arrays-e-objetos)
+     * [super em Objetos](https://github.com/alexmoreno/ES6-para-humanos#8-super-em-objetos)
+     * [Templates Literais e Delimitadores](https://github.com/alexmoreno/ES6-para-humanos#9-templates-literais-e-delimitadores)
+     * [for...of vs for...in](https://github.com/alexmoreno/ES6-para-humanos#10-forof-vs-forin)
+     * [Map e WeakMap](https://github.com/alexmoreno/ES6-para-humanos#11-map-e-weakmap)
+     * [Set e WeakSet](https://github.com/alexmoreno/ES6-para-humanos#12-set-e-weakset)
+     * [Classes e, ES6](https://github.com/alexmoreno/ES6-para-humanos#13-classes-em-es6)
+     * [Símbolo (Symbol)](https://github.com/alexmoreno/ES6-para-humanos#14-símbolo-symbol)
+     * [Iteradores (Iterators)](https://github.com/alexmoreno/ES6-para-humanos#15-iteradores-iterators)
+     * [Geradores (Generators)](https://github.com/alexmoreno/ES6-para-humanos#16-geradores-generators)
+     * [Promises](https://github.com/alexmoreno/ES6-para-humanos#17-promises)
+    </details>
 - [] Aula 7 - JavaScript Básico DOM, BOM e Eventos
 - [] Aula 8 - NodeJS, NPM e Módulos;
 - [] Aula 9 - Servidor de páginas com Express;
 
 - [] Aula 10 - Criando uma aplicação REST backend em JS
-  <summary>Tópicos</summary>
-  - MongoDB;
-  - ~~Mongoose~~;
-  - HTTP e REST;
-  - Swagger;
-  - ~~Loopback~~;
-  - ~~Adonis~~;
-  - ~~Outros~~;
+  <details>
+    <summary>Tópicos</summary>
 
+     * MongoDB
+     * <del>Mongoose</del>
+     * <del>HTTP e REST</del>
+     * Swagger
+     * <del>Loopback</del>
+     * <del>Adonis</del>
+     * <del>Outros</del>
+  </details>
 - [] Aula 11 - Express e Middlewares;
 
 ## Extras
 - Build Front-End, Otimização de Aplicações e Gulpjs;
 - Ember ?
 - React + Redux
-- ~~Angular~~ (Pra que mexer com coisa ruim?)
+- <del>Angular</del> (Pra que mexer com coisa ruim?)
 
 ### Referencia bibliográfica/video-aula:
 - [Exploring ES6 - Upgrade to the next version of JavaScript - ebook](http://exploringjs.com/es6/)
