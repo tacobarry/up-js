@@ -40,12 +40,12 @@ Todo o material do curso está disponível em:
 
 ## Agenda:
 
-- [] [Aula 1 - Introdução, Strict Mode, Variáveis, Hoisting e Tipos de dados](./aula-01/README.md);
-- [] [Aula 2 - Tipos de dados, Objetos, Operadores, Estruturas de controle](./aula-02/README.md);
-- [] [Aula 3 - Funções (First Class, Higher Order, Function Declaration, Function Expression, Call, Apply, Função Construtora, Currying e Closure)](./aula-03/README.md);
-- [] [Aula 4 - Callback, IIFE, Estruturas de Controle e Operadores](./aula-04/README.md);
-- [] [Aula 5 - Prototype e Shadowing e Namespaces](./aula-05/README.md);
-- [] [Aula 6 - ES6 para humanos](./aula-06/README.md);
+- [ ] [Aula 1 - Introdução, Strict Mode, Variáveis, Hoisting e Tipos de dados](./aula-01/README.md);
+- [ ] [Aula 2 - Tipos de dados, Objetos, Operadores, Estruturas de controle](./aula-02/README.md);
+- [ ] [Aula 3 - Funções (First Class, Higher Order, Function Declaration, Function Expression, Call, Apply, Função Construtora, Currying e Closure)](./aula-03/README.md);
+- [ ] [Aula 4 - Callback, IIFE, Estruturas de Controle e Operadores](./aula-04/README.md);
+- [ ] [Aula 5 - Prototype e Shadowing e Namespaces](./aula-05/README.md);
+- [ ] [Aula 6 - ES6 para humanos](./aula-06/README.md);
     <details>
       <summary>Tópicos</summary>
 
@@ -67,11 +67,11 @@ Todo o material do curso está disponível em:
      * [Geradores (Generators)](https://github.com/alexmoreno/ES6-para-humanos#16-geradores-generators)
      * [Promises](https://github.com/alexmoreno/ES6-para-humanos#17-promises)
     </details>
-- [] Aula 7 - JavaScript Básico DOM, BOM e Eventos
-- [] Aula 8 - NodeJS, NPM e Módulos;
-- [] Aula 9 - Servidor de páginas com Express;
+- [ ] Aula 7 - JavaScript Básico DOM, BOM e Eventos
+- [ ] Aula 8 - NodeJS, NPM e Módulos;
+- [ ] Aula 9 - Servidor de páginas com Express;
 
-- [] Aula 10 - Criando uma aplicação REST backend em JS
+- [ ] Aula 10 - Criando uma aplicação REST backend em JS
   <details>
     <summary>Tópicos</summary>
 
@@ -83,7 +83,7 @@ Todo o material do curso está disponível em:
      * <del>Adonis</del>
      * <del>Outros</del>
   </details>
-- [] Aula 11 - Express e Middlewares;
+- [ ] Aula 11 - Express e Middlewares;
 
 ## Extras
 - Build Front-End, Otimização de Aplicações e Gulpjs;
